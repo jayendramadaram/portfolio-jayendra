@@ -77,7 +77,7 @@ const Hero = ({
                     wideMobile
                     href='https://www.linkedin.com/in/jayendra-madharam-961922200/'
                   >
-                    DOWNLOAD RESUME
+                    DOWNLOAaD RESUME
                   </Button>
                   <Button
                     tag='a'
