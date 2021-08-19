@@ -57,7 +57,7 @@ const Testimonial = ({
               data-reveal-delay='200'
             >
               <div
-                className='tiles-item-inner'
+                className='tiles-item-inner q'
                 transition-style='in:circle:bottom-left'
               >
                 <h5>ANIME x SPACE</h5>
@@ -98,7 +98,7 @@ const Testimonial = ({
             </div>
 
             <div className='tiles-item reveal-from-bottom'>
-              <div className='tiles-item-inner'>
+              <div className='tiles-item-inner q'>
                 <h5>LATEST SOCIAL MEDIA INTERACTIONS</h5>
                 <div
                   className='testimonial-item-content'
@@ -138,7 +138,7 @@ const Testimonial = ({
               className='tiles-item reveal-from-left'
               data-reveal-delay='200'
             >
-              <div className='tiles-item-inner'>
+              <div className='tiles-item-inner q'>
                 <h5>FUTURE PLANNING / INSPIRATION</h5>
                 <div
                   className='testimonial-item-content'
