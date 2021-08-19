@@ -75,7 +75,7 @@ const Hero = ({
                     tag='a'
                     color='info'
                     wideMobile
-                    href='www.linkedin.com/in/jayendra-madharam-961922200'
+                    href='https://www.linkedin.com/in/jayendra-madharam-961922200/'
                   >
                     DOWNLOAD RESUME
                   </Button>
