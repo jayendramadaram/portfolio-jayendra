@@ -227,7 +227,7 @@ const FeaturesSplit = ({
                     <br />
                     you can view site{" "}
                     <a
-                      href='https://jayendramadara.000webhostapp.com/cmso/cmso.html'
+                      href='https://github.com/jayendramadaram/Youtube-Clone'
                       className='text-info'
                     >
                       here{" "}
