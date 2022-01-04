@@ -95,7 +95,7 @@ const Hero = ({
           <div className='hero-figure'>
             <Image
               className='has-shadow'
-              src={ "https://raw.githubusercontent.com/jayendramadaram/portfolio-jayendra/main/WhatsApp%20Image%202022-01-04%20at%2019.56.58.jpeg" }
+              src={"https://raw.githubusercontent.com/jayendramadaram/portfolio-jayendra/main/WhatsApp%20Image%202022-01-04%20at%2019.56.58.jpeg"}
               alt='jayendra madaram'
               width={896}
               height={504}
